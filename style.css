@@ -54,3 +54,14 @@ main article p,
 main article p a {
     color: white;
 }
+
+#skip-navigation{
+    position: fixed;
+    top: -100%;
+    left: 0;
+    background-color: #903749;
+    color: white;
+    text-decoration: none;
+    padding: 18px;
+    border: 3px solid #e84545;
+}
